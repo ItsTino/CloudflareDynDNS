@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CloudflareDynDNS": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
